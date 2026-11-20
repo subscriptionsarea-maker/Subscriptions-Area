@@ -34,19 +34,19 @@
                 <h2>Netflix Premium</h2>
                 <div class="price">৳৩৫০ / মাস</div>
                 <p>4K Ultra HD কোয়ালিটি<br>১টি প্রাইভেট প্রোফাইল<br>তাৎক্ষণিক ডেলিভারি</p>
-                <a href="#" class="btn">অর্ডার করুন</a>
+                <a href="/order?plan=Subscription Plan" class="btn">অর্ডার করুন</a>
             </div>
             <div class="card">
                 <h2>Spotify Duo / Individual</h2>
                 <div class="price">৳১৫০ / মাস</div>
                 <p>অ্যাড-ফ্রি মিউজিক<br>অফলাইন ডাউনলোড<br>নিজস্ব ইমেইলে অ্যাক্টিভেশন</p>
-                <a href="#" class="btn">অর্ডার করুন</a>
+                <a href="/order?plan=Subscription Plan" class="btn">অর্ডার করুন</a>
             </div>
             <div class="card">
                 <h2>Canva Pro</h2>
                 <div class="price">৳১২০ / মাস</div>
                 <p>সব প্রিমিয়াম টেমপ্লেট<br>ব্যাকগ্রাউন্ড রিমুভার<br>ফুল ওয়ারেন্টি সাপোর্ট</p>
-                <a href="#" class="btn">অর্ডার করুন</a>
+                <a href="/order?plan=Subscription Plan" class="btn">অর্ডার করুন</a>
             </div>
         </div>
     </div>
